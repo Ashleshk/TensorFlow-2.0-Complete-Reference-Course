@@ -2,6 +2,8 @@
 
  Tensorflow Course Containing Colab Files for Machine Learning, Natural Language Processing And Deep Learning Implementation
 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
  ## Colab Files
  1. Introduction
  2. Building an ANN
