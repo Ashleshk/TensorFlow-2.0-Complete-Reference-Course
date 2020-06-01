@@ -16,3 +16,9 @@
  9. Image Classification API
  10. Preparing a Tensorflow Model for Mobile Device with Tensorflow-Lite
  11. Distributed Training of Tensorflow 2.0 Models
+
+ ## Course Link
+ > [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
+
+ ## Certificate
+ > [Verified Certificate](https://www.udemy.com/certificate/UC-5f8d2ae4-de7e-4b5c-8be4-70f760ad2eaa/)
