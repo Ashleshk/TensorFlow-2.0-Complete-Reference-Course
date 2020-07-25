@@ -57,4 +57,7 @@
  > [Verified Certificate](https://www.udemy.com/certificate/UC-5f8d2ae4-de7e-4b5c-8be4-70f760ad2eaa/)
 
  4. **I am Extremely ThankFull For**
+
  ![Udemy](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/Udemy.PNG)
+
+ > Course Link -> [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
