@@ -40,6 +40,8 @@
 ## Reference Links
 1. **Course Reference Thumbnail**
 
+![Course Description](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/Description.PNG)
+
  > [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
 
  ## Certificate
