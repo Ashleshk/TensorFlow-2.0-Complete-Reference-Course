@@ -44,5 +44,9 @@
 
  > [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
 
+2. **Provided By**
+
+![Super Data Science Team](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/27129696_acc1.jpg)
+
  ## Certificate
  > [Verified Certificate](https://www.udemy.com/certificate/UC-5f8d2ae4-de7e-4b5c-8be4-70f760ad2eaa/)
