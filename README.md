@@ -31,6 +31,12 @@
  10. Preparing a Tensorflow Model for Mobile Device with Tensorflow-Lite
  11. Distributed Training of Tensorflow 2.0 Models
 
+## Instructor
+
+![Kirill Eremenko](https://github.com/Ashleshk/Tableau-10-A-Z-Hands-on-Tableau-Training-for-Data-Science-Udemy/blob/master/resource/kiril.jpg)
+
+> **Kirill Eremenko** ,Data Scientist
+
  ## Course Link
  > [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
 
