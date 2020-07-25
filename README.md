@@ -37,7 +37,9 @@
 
 > **Kirill Eremenko** ,Data Scientist
 
- ## Course Link
+## Reference Links
+1. **Course Reference Thumbnail**
+
  > [Udemy](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/)
 
  ## Certificate
